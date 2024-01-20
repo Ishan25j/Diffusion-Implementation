@@ -1,10 +1,10 @@
-**# Diffusion Model for Text and Image Translation**
+# Diffusion Model for Text and Image Translation
 
-**## Description**
+## Description
 
 This repository houses a large-scale diffusion model implemented in PyTorch, capable of generating visually stunning images from text descriptions and performing image-to-image translation tasks.
 
-**## Key Features**
+## Key Features**
 
 * **Versatile:** Handles both text-to-image and image-to-image translation.
 * **Expressive:** Generates high-quality, creative images that align with prompts.
@@ -15,11 +15,11 @@ This repository houses a large-scale diffusion model implemented in PyTorch, cap
   * VAE for latent representation learning
 * **1.066 Billion Parameters:** Demonstrates expertise in handling large-scale models.
 
-**## Inference**
+## Inference
 
 * Explore the model's capabilities using the `demo.ipynb` notebook.
 
-**## Examples**
+## Examples
 
 [Insert a captivating image generated from a text prompt]
 
@@ -27,16 +27,16 @@ This repository houses a large-scale diffusion model implemented in PyTorch, cap
 
 ![Image description](output/output.png "Fox as painting")
 
-**## Setup**
+## Setup
 
 1. Clone this repository: `git clone https://github.com/Ishan25j/Diffusion-Implementation`
 2. Navigate to the `sd` directory: `cd Diffusion-Implementation/sd`
 3. Install required libraries: `pip install -r requirements.txt`
 
-**## Usage**
+## Usage
 
 * Refer to the `demo.ipynb` notebook for detailed instructions on using the model for text-to-image and image-to-image translation.
 
-**## Contributions**
+## Contributions
 
 Bug fixes and improvements are welcome! Please follow standard GitHub procedures for contributing.
