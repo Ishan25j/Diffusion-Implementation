@@ -4,7 +4,7 @@
 
 This repository houses a large-scale diffusion model implemented in PyTorch, capable of generating visually stunning images from text descriptions and performing image-to-image translation tasks.
 
-## Key Features**
+## Key Features
 
 * **Versatile:** Handles both text-to-image and image-to-image translation.
 * **Expressive:** Generates high-quality, creative images that align with prompts.
@@ -21,7 +21,6 @@ This repository houses a large-scale diffusion model implemented in PyTorch, cap
 
 ## Examples
 
-[Insert a captivating image generated from a text prompt]
 
 **Prompt:** a painting of a fox sitting in a field at sunrise in the style of Claude Monet, higly detailed, ultra sharp, 8k resolution.
 
